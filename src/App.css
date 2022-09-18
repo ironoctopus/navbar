@@ -1,0 +1,69 @@
+*{
+  margin: 0;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  color: rgb(99, 24, 99);
+  background-color: rgb(209, 245, 255);
+  font-family: Verdana, Geneva, Tahoma;
+  height: 50px;
+  place-items: center;
+  padding: 6px;
+}
+
+.navlink {
+  display: flex;
+  justify-content: space-evenly;
+  word-spacing: 6px;
+  font-family: Verdana, Geneva, Tahoma;
+}
+
+.link {
+  text-decoration: none;
+  font-size: large;
+  font-weight: 300;
+  margin-left: 6px;
+  padding: 6px;
+  color: rgb(99, 24, 99);
+}
+
+.active {
+  color: rgb(168, 102, 22);
+}
+
+.home {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(228, 26, 164);
+}
+
+.about {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(228, 26, 164);
+}
+
+.contact {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(228, 26, 164);
+}
+
+.error {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(228, 26, 164);
+}
+
+.secret {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(228, 26, 164);
+}
+
+.lin {
+  font-family: Verdana, Geneva, Tahoma;
+  color: rgb(168, 102, 22);
+}
